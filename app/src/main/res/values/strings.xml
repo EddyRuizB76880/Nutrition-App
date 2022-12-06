@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Nutricion</string>
+    <string name="proceed">Continuar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="login">Ingresar</string>
+    <string name="name">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
