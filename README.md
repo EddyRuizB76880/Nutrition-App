@@ -1,14 +1,12 @@
 # Nutrition-App
-Esta pequeña app es el resultado de realizar el Examen 1 del curso Desarrollo de aplicaciones móviles en el segundo semestre de 2022 en la Universidad de Costa Rica.
-
-En esta app, se pone en uso:
-- Ciclo de vida de las actividades.
-- Consumo de API por medio de Volley y Gson, de Google.
-- Recycler view.
-- Clases que implementan Parcelable.
-- Intents implícitos y explícitos.
+In this exam, the following topics were evaluated:
+- Lifecycle of an Android's activity.
+- API consumption using Volley and Gson, both property of Google.
+- Implementation of a simple recycler view.
+- Classes that implement the Parcelable class.
+- Explicit and implicit intents.
 - Fragments.
-- Elementos especiales de input de usuario como Date picker y Time picker.
+- Special user input elements, like Date picker and Time picker.
 
 ## Screenshots
 |<img src="./screenshots/AN1.jpeg" alt="login" height = "304" width="144"/>
